@@ -15,7 +15,7 @@
 
 - ⚡  Projects are **`Confidential`**.
 
-- ⚡  Research Contributions: Please visit: **`Research Contributions: Please visit: <a href="https://scholar.google.com/citations?user=Bw-PUssAAAAJ" target="_blank"><strong>Google Scholar Profile</strong></a>`**
+- ⚡  Research Contributions: Please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=Bw-PUssAAAAJ)
 
 - 💬  (**`Note:`** This is a **`Personal GitHub Profile`** and it is **`not associated with my current employment projects`**.)
 <br/>
