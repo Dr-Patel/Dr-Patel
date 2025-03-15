@@ -6,9 +6,11 @@
 <h3 align="center">A passionate Software Developer/Engineer</h3>
 <br/>
 <br/>
+
 - 💬  **`Note`**: This GitHub profile is **`NOT my Official Profile`**. It was **`created solely to showcase my part of contributions`**. It is also **`NOT Affiliated with my current Employment Projects.`**
 <br/>
 <br/>
+
 <!--- ❤️ 💬 I’m currently working with **`Python`**.-->
 
 - ❤️  Passionate for **`Python/Java Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
