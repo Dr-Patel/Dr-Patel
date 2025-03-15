@@ -9,9 +9,9 @@
 
 <!--- ❤️ 💬 I’m currently working with **`Python`**.-->
 
-- 🧠  Passionate for **`Python/Java Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
-
 - 💬  **`Note`**: This GitHub profile is **`NOT my Official Profile`**. It was **`created solely to showcase my part of contributions`**. It is also **`NOT Affiliated with my current Employment Projects.`**
+
+- 🧠  Passionate for **`Python/Java Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
   
 - 🚀  How to reach me: **`Email: dbpatel8754@gmail.com` **`Or`** [LinkedIn](https://www.linkedin.com/in/dixit-patel-2050/)
 
