@@ -13,7 +13,11 @@
 
 - 📫  How to reach me **`Email: dbpatel8754@gmail.com`, `LinkedIn: https://www.linkedin.com/in/dixit-patel-2050/`**
 
-- ⚡   Projects are **`Confidential`**. 
+- ⚡  Projects are **`Confidential`**.
+
+- ⚡  Research Contributions: Please visit: **`<strong><a href="https://scholar.google.com/citations?user=Bw-PUssAAAAJ" target="_blank">Google Scholar Profile</a></strong>`**
+
+- 💬  (**`Note:`** This is a **`Personal GitHub Profile`** and it is **`not associated with my current employment projects`**.)
 <br/>
 <br/>
 
