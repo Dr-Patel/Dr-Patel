@@ -15,7 +15,7 @@
   
 - 🚀  How to reach me: **`Email: dbpatel8754@gmail.com` **`Or`** [LinkedIn](https://www.linkedin.com/in/dixit-patel-2050/)
 
-- 🔨  Projects are **`Confidential/Hidden`** and cannot be shared publicly due to privacy concerns. 
+- 🔨  Projects are 🔔**`Confidential/Hidden`**🔔 and cannot be shared publicly due to privacy concerns. 
 
 - 🔍  Research Contributions: Please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=Bw-PUssAAAAJ)
 <br/>
