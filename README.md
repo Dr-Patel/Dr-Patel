@@ -3,7 +3,7 @@
 </p>
   
 <h1 align="center">"Greetings from Dixit Patel!👋"</h1>
-<h3 align="center">A passionate Software Developer/Engineer</h3>
+<h3 align="center">A passionate Software Engineer/Developer</h3>
 <br/>
 <br/>
 
