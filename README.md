@@ -9,7 +9,7 @@
 
 <!--- ❤️ 💬 I’m currently working with **`Python`**.-->
 
-- 🔨  Projects are 🔔**`Confidential/Hidden`**🔔 and cannot be shared publicly due to privacy concerns. 
+- 🔨  Projects are 🔔**`Confidential/Hidden`**🔔 and **`cannot be shared publicly due to privacy concerns.`**
 
 - ‼️  🔔**`Note`**📌: This GitHub profile is **`NOT my Official Work Profile`**. It was **`created solely to demonstrate my part of contributions`**. In addition, all the projects are **`Hidden and cannot be shared due to privacy concerns.`**  
 
