@@ -9,13 +9,13 @@
 
 <!--- ❤️ 💬 I’m currently working with **`Python`**.-->
 
-- ‼️  🔔**`Note`**📌: This GitHub profile is **`NOT my Official Profile`**. It was **`created solely to showcase my part of contributions`**. It is also **`NOT Affiliated with my current Employment Projects.`**
+- 🔨  Projects are 🔔**`Confidential/Hidden`**🔔 and cannot be shared publicly due to privacy concerns. 
+
+- ‼️  🔔**`Note`**📌: This GitHub profile is **`NOT my Official Work Profile`**. It was **`created solely to demonstrate my part of contributions`**. In addition, all the projects are **`Hidden and cannot be shared due to privacy concerns.`**  
 
 - 🧠  Passionate for **`Python/Java Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Back-end Development`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
   
 - 🚀  How to reach me: **`Email: dbpatel8754@gmail.com` **`Or`** [LinkedIn](https://www.linkedin.com/in/dixit-patel-2050/)
-
-- 🔨  Projects are 🔔**`Confidential/Hidden`**🔔 and cannot be shared publicly due to privacy concerns. 
 
 - 🔍  Research Contributions: Please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=Bw-PUssAAAAJ)
 <br/>
